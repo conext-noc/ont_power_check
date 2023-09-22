@@ -1,4 +1,4 @@
-from src.PT import *
+from src.PT2 import *
 
 
 def main():
