@@ -1,4 +1,4 @@
-from src.PT2 import *
+from src.PT import *
 
 
 def main():
@@ -8,7 +8,10 @@ def main():
     #     Respuesta2 =  Optical(devices[f"OLT1"]["ip"],PORT,devices[f"OLT1"]["user"],devices[f"OLT1"]["pass"])
     #     print(Respuesta2)
     
-    PT()
+    bucle()
+    
 
 if __name__ == "__main__":
     main()
+    
+
